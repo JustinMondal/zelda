@@ -1,0 +1,25 @@
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\Mario Sprite.xnb
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\MarioSprite.xnb
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\Sprint0.exe
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\Sprint0.pdb
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Cjgod\source\repos\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Cjgod\source\repos\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\Cjgod\source\repos\Game1\Game1\obj\x86\Debug\Sprint0.exe
+C:\Users\Cjgod\source\repos\Game1\Game1\obj\x86\Debug\Sprint0.pdb
